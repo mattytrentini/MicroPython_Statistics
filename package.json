@@ -1,0 +1,8 @@
+{
+  "urls": [
+    ["statistics.py", "github:rcolistete/MicroPython_Statistics/statistics.py"],
+    ["statistics_indepfunc.py", "github:rcolistete/MicroPython_Statistics/statistics_indepfunc.py"]
+  ],
+  "version": "1.0.0",
+  "deps": []
+}
